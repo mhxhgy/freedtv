@@ -4,6 +4,12 @@
       "id": 1,
       "name": "解析1",
       "ad": "no",
+      "url": "https://www.8090.la/api/?url="
+    },
+     {
+      "id": 111,
+      "name": "解析111",
+      "ad": "no",
       "url": "https://pay.520yk.cn/256/?url="
     },
     {
